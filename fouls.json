@@ -1,0 +1,567 @@
+{
+  "RepeatProcedure": [
+    {
+      "name": "substitution violation",
+      "ruleId": "1.3.1"
+    },
+    {
+      "name": "violating the back-to-hoops procedure",
+      "ruleId": "5.3.1"
+    }
+  ],
+  "BackToHoops": [
+    {
+      "name": "illegally failing to replace a lost headband",
+      "ruleId": "2.5.3"
+    },
+    {
+      "name": "second false restart",
+      "ruleId": "3.3.3"
+    },
+    {
+      "name": "improper immunity claim",
+      "ruleId": "5.5.2"
+    },
+    {
+      "name": "minor invalid immunity claim",
+      "ruleId": "5.5.2"
+    },
+    {
+      "name": "minor illegal interposition interaction",
+      "ruleId": "6.4.1"
+    },
+    {
+      "name": "minor failure to avoid a propelled volleyball",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "intentionally or egregiously illegally going or remaining out of bounds",
+      "ruleId": "7.5.3"
+    },
+    {
+      "name": "illegally physically preventing the inbounding player from reentering the pitch",
+      "ruleId": "7.5.4"
+    },
+    {
+      "name": "illegally pursuing the flag",
+      "ruleId": "8.4.3"
+    },
+    {
+      "name": "delaying the completion of the turnover procedure",
+      "ruleId": "9.1.4"
+    }
+  ],
+  "Turnover": [
+    {
+      "name": "unintentional natural motion violation",
+      "ruleId": "5.6.2"
+    },
+    {
+      "name": "incidental interposition ball interference",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "incidental interposition ball interference",
+      "ruleId": "7.1.4"
+    }
+  ],
+  "BlueCard": [
+    {
+      "name": "encroaching on the pitch",
+      "ruleId": "1.1.1"
+    },
+    {
+      "name": "encroaching on the pitch",
+      "ruleId": "1.1.2"
+    },
+    {
+      "name": "illegal substitution",
+      "ruleId": "1.3.1"
+    },
+    {
+      "name": "sideline infraction",
+      "ruleId": "1.4.1"
+    },
+    {
+      "name": "illegal circumvention",
+      "ruleId": "1.4.2"
+    },
+    {
+      "name": "sideline interference",
+      "ruleId": "1.4.3"
+    },
+    {
+      "name": "intentional sideline interference",
+      "ruleId": "1.4.3"
+    },
+    {
+      "name": "entering play with illegally long or sharp fingernails",
+      "ruleId": "2.5.1"
+    },
+    {
+      "name": "entering play without wearing mandatory equipment",
+      "ruleId": "2.5.2"
+    },
+    {
+      "name": "intentionally removing mandatory equipment while in play",
+      "ruleId": "2.5.2"
+    },
+    {
+      "name": "entering play without a legal and recognizable jersey number",
+      "ruleId": "2.5.4"
+    },
+    {
+      "name": "using illegal additional equipment in play",
+      "ruleId": "2.5.5"
+    },
+    {
+      "name": "locked-in player violation",
+      "ruleId": "3.2.1"
+    },
+    {
+      "name": "false start",
+      "ruleId": "3.2.2"
+    },
+    {
+      "name": "illegally touching a contested ball",
+      "ruleId": "3.2.3"
+    },
+    {
+      "name": "designated runner violation",
+      "ruleId": "3.2.3"
+    },
+    {
+      "name": "illegal timeout request",
+      "ruleId": "3.3.4"
+    },
+    {
+      "name": "seeker false start",
+      "ruleId": "3.4.2"
+    },
+    {
+      "name": "false start",
+      "ruleId": "3.7.2"
+    },
+    {
+      "name": "intentionally and illegally interacting with a dead volleyball",
+      "ruleId": "4.2.1"
+    },
+    {
+      "name": "illegally resetting an opponent's hoop",
+      "ruleId": "4.3.3"
+    },
+    {
+      "name": "unintentionally dislodging hoops repeatedly",
+      "ruleId": "4.3.3"
+    },
+    {
+      "name": "illegally contacting an opponent with a held dodgeball",
+      "ruleId": "5.2.3"
+    },
+    {
+      "name": "illegally interacting with play while off stick",
+      "ruleId": "5.3.2"
+    },
+    {
+      "name": "illegally continuing contact while off stick",
+      "ruleId": "5.3.3"
+    },
+    {
+      "name": "affecting play while unknowingly off stick",
+      "ruleId": "5.3.4"
+    },
+    {
+      "name": "illegal bat",
+      "ruleId": "5.4.1"
+    },
+    {
+      "name": "illegal block",
+      "ruleId": "5.4.1"
+    },
+    {
+      "name": "illegal dodgeball swat",
+      "ruleId": "5.4.2"
+    },
+    {
+      "name": "struck beater violation",
+      "ruleId": "5.4.3"
+    },
+    {
+      "name": "invalid immunity claim",
+      "ruleId": "5.5.2"
+    },
+    {
+      "name": "immunity violation",
+      "ruleId": "5.5.3"
+    },
+    {
+      "name": "repeated use of explicit or vulgar language",
+      "ruleId": "6.5.2"
+    },
+    {
+      "name": "illegally using a ball of one's own position",
+      "ruleId": "7.1.1"
+    },
+    {
+      "name": "failure to avoid a propelled volleyball",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "illegal dodgeball swat",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "illegal shielding",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "illegally failing to make a reasonable effort to avoid a ball",
+      "ruleId": "7.1.3"
+    },
+    {
+      "name": "propelling a ball with the intent of sending any ball out of bounds",
+      "ruleId": "7.5.2"
+    },
+    {
+      "name": "illegally using verbal or visual referee signals or commands",
+      "ruleId": "10.3.2"
+    }
+  ],
+  "YellowCard": [
+    {
+      "name": "feigning an injury",
+      "ruleId": "1.3.4"
+    },
+    {
+      "name": "disregarding an official's directive",
+      "ruleId": "2.5.7"
+    },
+    {
+      "name": "designated runner interference",
+      "ruleId": "3.2.3"
+    },
+    {
+      "name": "intentionally illegally moving during a stoppage",
+      "ruleId": "3.3.1"
+    },
+    {
+      "name": "intentionally illegally moving or taking hold of a ball during a stoppage",
+      "ruleId": "3.3.1"
+    },
+    {
+      "name": "recklessly dislodging a hoop",
+      "ruleId": "4.3.3"
+    },
+    {
+      "name": "willfully ignoring being off stick",
+      "ruleId": "5.2.1"
+    },
+    {
+      "name": "willfully ignoring being off stick",
+      "ruleId": "5.2.5"
+    },
+    {
+      "name": "illegal headbeat",
+      "ruleId": "5.2.6"
+    },
+    {
+      "name": "intentionally or repeatedly violating the back-to-hoops procedure",
+      "ruleId": "5.3.1"
+    },
+    {
+      "name": "illegally initiating contact while off stick",
+      "ruleId": "5.3.3"
+    },
+    {
+      "name": "intentional natural motion violation",
+      "ruleId": "5.6.2"
+    },
+    {
+      "name": "dangerous kick",
+      "ruleId": "6.1.3"
+    },
+    {
+      "name": "kicking an opponent",
+      "ruleId": "6.1.3"
+    },
+    {
+      "name": "illegally hurdling or attempting to hurdle any person",
+      "ruleId": "6.1.5"
+    },
+    {
+      "name": "illegally contacting a helpless receiver",
+      "ruleId": "6.1.7"
+    },
+    {
+      "name": "playing recklessly",
+      "ruleId": "6.1.12"
+    },
+    {
+      "name": "illegal interposition interaction",
+      "ruleId": "6.4.1"
+    },
+    {
+      "name": "illegally interacting with an off stick opponent",
+      "ruleId": "6.4.2"
+    },
+    {
+      "name": "unsportsmanlike conduct",
+      "ruleId": "6.5.1"
+    },
+    {
+      "name": "pretending to be fouled",
+      "ruleId": "6.5.6"
+    },
+    {
+      "name": "using a ball to intentionally interact with the flag runner",
+      "ruleId": "7.1.1"
+    },
+    {
+      "name": "interposition ball interference",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "illegally unintentionally blocking a propelled volleyball from scoring",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "interposition ball interference",
+      "ruleId": "7.1.4"
+    },
+    {
+      "name": "intentionally or blatantly ignoring a boundary call",
+      "ruleId": "7.5.2"
+    },
+    {
+      "name": "disregarding an official's directive",
+      "ruleId": "9.1.3"
+    },
+    {
+      "name": "willfully ignoring a turnover call",
+      "ruleId": "9.1.4"
+    },
+    {
+      "name": "failing to immediately proceed to the penalty box after being carded",
+      "ruleId": "9.4.2"
+    },
+    {
+      "name": "disregarding an official's directive",
+      "ruleId": "10.3.1"
+    }
+  ],
+  "RedCard": [
+    {
+      "name": "knowingly initiating a new play with a broken stick",
+      "ruleId": "2.4.2"
+    },
+    {
+      "name": "using equipment in play that was disallowed by a game official",
+      "ruleId": "2.5.6"
+    },
+    {
+      "name": "using equipment explicitly barred by the event director",
+      "ruleId": "2.5.8"
+    },
+    {
+      "name": "illegally altering game equipment",
+      "ruleId": "2.5.9"
+    },
+    {
+      "name": "wearing forbidden equipment",
+      "ruleId": "2.5.10"
+    },
+    {
+      "name": "intentional interposition goaltending",
+      "ruleId": "4.1.2"
+    },
+    {
+      "name": "intentionally dislodging a hoop",
+      "ruleId": "4.3.3"
+    },
+    {
+      "name": "moving or altering a hoop to affect whether the volleyball will pass through it",
+      "ruleId": "4.3.3"
+    },
+    {
+      "name": "excessive force headbeat",
+      "ruleId": "5.2.6"
+    },
+    {
+      "name": "violent or egregious illegal kick",
+      "ruleId": "6.1.3"
+    },
+    {
+      "name": "violently or egregiously illegally hurdling any person",
+      "ruleId": "6.1.5"
+    },
+    {
+      "name": "charging a helpless receiver",
+      "ruleId": "6.1.7"
+    },
+    {
+      "name": "tackling a helpless receiver",
+      "ruleId": "6.1.7"
+    },
+    {
+      "name": "playing egregiously recklessly",
+      "ruleId": "6.1.12"
+    },
+    {
+      "name": "egregiously illegal contact against an opponent, spectator, official, or event staffer",
+      "ruleId": "6.1.13"
+    },
+    {
+      "name": "violent or egregious illegal interposition interaction",
+      "ruleId": "6.4.1"
+    },
+    {
+      "name": "violently or egregiously illegally interacting with an off stick opponent",
+      "ruleId": "6.4.2"
+    },
+    {
+      "name": "egregious unsportsmanlike conduct",
+      "ruleId": "6.5.1"
+    },
+    {
+      "name": "engaging in a physical altercation with an opponent, spectator, official, or event staffer",
+      "ruleId": "6.5.3"
+    },
+    {
+      "name": "intentionally spitting at or on an opponent, spectator, official, or event staffer",
+      "ruleId": "6.5.4"
+    },
+    {
+      "name": "serious foul play",
+      "ruleId": "6.5.5"
+    },
+    {
+      "name": "intentionally and illegally blocking a score",
+      "ruleId": "7.1.2"
+    },
+    {
+      "name": "intentionally and illegally blocking a score",
+      "ruleId": "7.1.3"
+    }
+  ],
+  "Ejection": [
+    {
+      "name": "wearing forbidden jewelry",
+      "ruleId": "2.5.10"
+    },
+    {
+      "name": "egregiously illegal contact against a teammate",
+      "ruleId": "6.1.13"
+    },
+    {
+      "name": "egregious internal unsportsmanlike conduct",
+      "ruleId": "6.5.2"
+    },
+    {
+      "name": "engaging in a physical altercation with a teammate",
+      "ruleId": "6.5.3"
+    },
+    {
+      "name": "intentionally spitting at or on a teammate",
+      "ruleId": "6.5.4"
+    }
+  ],
+  "StandardContactPenalty": [
+    {
+      "name": "illegal physical contact",
+      "ruleId": "6.1.1"
+    },
+    {
+      "name": "illegal pick",
+      "ruleId": "6.1.2"
+    },
+    {
+      "name": "illegally charging a picking player",
+      "ruleId": "6.1.2"
+    },
+    {
+      "name": "illegal slide",
+      "ruleId": "6.1.4"
+    },
+    {
+      "name": "illegal dive",
+      "ruleId": "6.1.4"
+    },
+    {
+      "name": "illegal contact through a teammate",
+      "ruleId": "6.1.6"
+    },
+    {
+      "name": "illegal attempt to steal",
+      "ruleId": "6.1.8"
+    },
+    {
+      "name": "illegal contact from behind",
+      "ruleId": "6.1.9"
+    },
+    {
+      "name": "illegal body block",
+      "ruleId": "6.2.1"
+    },
+    {
+      "name": "illegal push",
+      "ruleId": "6.2.2"
+    },
+    {
+      "name": "illegal charge",
+      "ruleId": "6.2.3"
+    },
+    {
+      "name": "illegal wrap",
+      "ruleId": "6.2.4"
+    },
+    {
+      "name": "illegal interaction with the flag runner",
+      "ruleId": "6.3.1"
+    }
+  ],
+  "UniquePenalty": [
+    {
+      "name": "third dodgeball interference",
+      "ruleId": "5.5.1",
+      "penalty": "back to hoops, volleyball turnover, and double dodgeball turnover"
+    },
+    {
+      "name": "delay of game",
+      "ruleId": "7.4.1",
+      "penalty": "blue card and volleyball turnover"
+    },
+    {
+      "name": "illegal reset",
+      "ruleId": "7.4.3",
+      "penalty": "volleyball turnover"
+    },
+    {
+      "name": "inbounding procedure violation",
+      "ruleId": "7.5.4",
+      "penalty": "back to hoops and turnover"
+    },
+    {
+      "name": "disrespecting an official",
+      "ruleId": "10.3.1",
+      "penalty": "blue or yellow card"
+    }
+  ],
+  "Forfeit": [
+    {
+      "name": "having insufficient eligible players to continue the game",
+      "ruleId": "1.2.1"
+    },
+    {
+      "name": "persistently refusing to leave the player area after being ejected",
+      "ruleId": "9.1.6"
+    },
+    {
+      "name": "endangering others after being ejected",
+      "ruleId": "9.1.6"
+    },
+    {
+      "name": "having all players in play serving penalty time",
+      "ruleId": "9.4.6"
+    }
+  ]
+}
