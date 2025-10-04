@@ -2514,31 +2514,28 @@
           {
             "ruleId": "5.4.1",
             "ruleTitle": "Blocking and batting dodgeballs",
-            "description": "A player in possession of a ball may attempt to block or bat an incoming live dodgeball with the ball in their possession:",
+            "description": "See appendix A for definitions of \"Bat\" and \"Block\". A player in possession of a ball may intentionally bat or block a dodgeball if and only if:",
             "details": [
               {
-                "point": "A. The held ball may be used to bat or otherwise propel the incoming dodgeball."
+                "point": "A. The held ball is a live volleyball or a dodgeball."
               },
               {
-                "point": "B. A block or bat does not affect whether the dodgeball is live."
-              },
-              {
-                "point": "C. A dead volleyball may not be used to intentionally interact with a dodgeball."
-              },
-              {
-                "point": "D. Players may not intentionally use a held ball to interact with a dead dodgeball or a dodgeball that was made live by a teammate.",
+                "point": "B. The incoming dodgeball has been made live by an opponent.",
                 "subPoints": [
-                  "i. If the referee determines that the player was not reasonably aware that the dodgeball was either dead or made live by their own teammate, and the play was otherwise legal, the player shall not be penalized."
+                  "i. Exception: No penalty applies if the player may reasonably not have been aware that the dodgeball was dead or made live by a teammate."
                 ]
+              },
+              {
+                "point": "C. It is an illegal dodgeball bat/block if at least one of the above listed requirements is not met. A bat or block, legal or not, does not affect whether the batted/blocked dodgeball is live."
               }
             ],
             "violations": [
               {
-                "description": "illegal bat",
+                "description": "illegal dodgeball bat",
                 "penalty": "BlueCard"
               },
               {
-                "description": "illegal block",
+                "description": "illegal dodgeball block",
                 "penalty": "BlueCard"
               }
             ]
@@ -2546,27 +2543,26 @@
           {
             "ruleId": "5.4.2",
             "ruleTitle": "Swatting dodgeballs",
-            "description": "Any attempt to swat or otherwise intentionally propel a live dodgeball, other than through the use of another ball, is considered a dodgeball swat.",
+            "description": "See appendix A for the definition of \"Swat\". A player may attempt to intentionally swat a live dodgeball if and only if:",
             "details": [
               {
-                "point": "A. Beaters may generally swat or make any attempt to alter the course of a live dodgeball.",
+                "point": "A. They are a beater and the dodgeball was made live by an opponent."
+              },
+              {
+                "point": "B. They are not in possession of another dodgeball."
+              },
+              {
+                "point": "C. They were not already struck by the dodgeball being swatted.",
                 "subPoints": [
-                  "i. A struck beater may not swat any dodgeball, except as part of an attempt to catch it (See rule 5.4.3 Struck beater).",
-                  "ii. A beater who is in possession of a dodgeball may not swat another dodgeball.",
-                  "a. This rule does not prohibit batting a live dodgeball with a held dodgeball (See rule 5.4.1 Blocking and batting dodgeballs).",
-                  "iii. If the dodgeball was already live, it remains live for the original team.",
-                  "a. If it was live for the opposing team, the swatting beater becomes a struck beater."
+                  "i. Exception: A struck beater may swat the dodgeball they were struck by in an attempt to catch it (see 5.4.3 Struck beater)",
+                  "ii. They become struck upon swatting it."
                 ]
               },
               {
-                "point": "B. Chasers and seekers may not swat dodgeballs at any time.",
+                "point": "D. It is an illegal dodgeball swat if at least one of the above listed requirements is not met. A swat, legal or not, does not impact whether the dodgeball is live.",
                 "subPoints": [
-                  "i. This rule does not prohibit batting a live dodgeball with a held volleyball (See rule 5.4.1 Blocking and batting dodgeballs).",
-                  "ii. This rule does not prohibit shielding (See rule 7.1.2 Interposition ball interactions)."
+                  "i. If a player repeatedly unintentionally illegally swats a dodgeball, they shall be penalized with an illegal dodgeball swat."
                 ]
-              },
-              {
-                "point": "C. If a player is repeatedly illegally swatting dodgeballs, no harm no foul may not be called."
               }
             ],
             "violations": [
@@ -2579,36 +2575,24 @@
           {
             "ruleId": "5.4.3",
             "ruleTitle": "Struck beater",
-            "description": "A non-immune beater is a struck beater, rather than beat, from the time they are hit by an opponent's live dodgeball until that dodgeball becomes dead. A struck beater is subject to the following restrictions:",
+            "description": "See appendix A for the definition of \"Dodgeball catch\". A non-immune beater is a struck beater, rather than beat, from the moment they are hit by an opponent's live dodgeball until the moment that dodgeball becomes dead.",
             "details": [
               {
                 "point": "A. A struck beater is unable to make a dodgeball live."
               },
               {
-                "point": "B. A struck beater must immediately drop any dodgeball that they are holding.",
+                "point": "B. If a struck beater catches the dodgeball before it otherwise becomes dead, that beater is not beat by that dodgeball.",
                 "subPoints": [
-                  "i. The player must not pass, toss, roll, or kick the dodgeball, unless completing a natural motion already begun (See rule 5.6.2 Natural motion conditions).",
-                  "ii. Failure to release the dodgeball is a struck beater violation."
+                  "i. It is possible for a struck beater to also become a struck beater for another live dodgeball."
                 ]
               },
               {
-                "point": "C. A struck beater must either attempt to catch the live dodgeball that struck them or immediately follow the back-to-hoops procedure.",
+                "point": "C. A struck beater must immediately follow the back-to-hoops procedure (5.3), unless they attempt to catch the dodgeball that struck them. It is a struck beater violation, instead of the usual penalties, if any of the following applies:",
                 "subPoints": [
-                  "i. A beater is allowed to propel a dodgeball further into the air in the process of attempting a catch.",
-                  "ii. After the initial hit, any intentional attempt by the struck beater to change the direction of any dodgeball, in any manner, other than to attempt to catch the dodgeball that struck them is a struck beater violation."
+                  "i. They do not make an attempt to catch the dodgeball that struck them, nor do they follow the back-to-hoops procedure.",
+                  "ii. They intentionally affect the dodgeball that struck them in a manner that does not directly contribute to their catch attempt.",
+                  "a. The initial motion that started before getting struck is not subject to this restriction."
                 ]
-              },
-              {
-                "point": "D. If a struck beater takes any actions other than those outlined elsewhere in this rule, they are subject to the same rules and penalties for those actions as an off stick player."
-              },
-              {
-                "point": "E. If a struck beater catches the dodgeball before it otherwise becomes dead, that beater is not beat by that dodgeball.",
-                "subPoints": [
-                  "i. A struck beater is still beat by all live dodgeballs propelled by opponents that hit them while they are a struck beater unless they also catch those dodgeballs before they become dead."
-                ]
-              },
-              {
-                "point": "F. A struck beater who fails to catch the dodgeball before it becomes dead is beat and must immediately begin the back-to-hoops procedure."
               }
             ],
             "violations": [
@@ -5443,13 +5427,16 @@
                 "point": "Axis through spine — Line extended through the top and bottom of a player's spine"
               },
               {
-                "point": "Bat — To propel a ball by hitting it with another ball that is still in one's possession at the time of the hit."
+                "point": "Bat — Use solely the held ball in one's possession to contact another ball, changing its motion, in a way that adds energy into the contacted ball. It is not a bat if the held ball was let go of before it made initial contact with the incoming ball."
               },
               {
                 "point": "Beaters — Two players on each team who throw, kick, or in any way propel the dodgeballs to disrupt the flow of the game by beating other players."
               },
               {
                 "point": "Bent over — A player shall be considered bent over whenever the axis through their spine is more than 45 degrees off from a fully upright position."
+              },
+              {
+                "point": "Block — Use solely the held ball in one's possession to contact another ball, changing its motion, in a way that does not add energy into the contacted ball. It is not a block if the held ball was let go of before it made initial contact with the incoming ball."
               },
               {
                 "point": "Chasers — Four players on each team who attempt to send the volleyball through the opposing team's hoops and attempt to stop the other team from doing so."
@@ -5468,6 +5455,9 @@
               },
               {
                 "point": "Dodgeball — One of three inflated rubber balls that may only be used by the beaters and are used to temporarily knock opponents off stick. (See rule 2.3.2 Dodgeballs)."
+              },
+              {
+                "point": "Dodgeball catch — Gain possession of a live dodgeball, rendering it dead, by holding (in contrast to kicking or swatting) it with any part of the body."
               },
               {
                 "point": "Dodgeball immunity — A player with dodgeball immunity is not knocked off stick by live dodgeballs. A protected keeper is immune in that keeper's own keeper zone. A beater retrieving the third dodgeball gains dodgeball immunity by raising a hand in a fist above their shoulder. (See rule 5.5.2 Claiming dodgeball immunity)."
@@ -5597,6 +5587,9 @@
               },
               {
                 "point": "Possession — Complete and sole control of a ball. A player who is intentionally kicking a ball is considered to have possession of that ball while they are the sole person in contact with the ball. A player who is swatting a ball that is on the ground is considered to have possession of that ball while they are the sole person in contact with the ball (See rule 7.1.1 Use of the ball)"
+              },
+              {
+                "point": "Swat — Use a part of the body or broom to contact a ball, changing its motion, in a way that adds energy into the ball."
               }
             ]
           }
