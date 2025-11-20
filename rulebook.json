@@ -2581,7 +2581,7 @@
                 "point": "A. A struck beater is unable to make a dodgeball live."
               },
               {
-                "point": "B. If a struck beater catches the dodgeball before it otherwise becomes dead, that beater is not beat by that dodgeball.",
+                "point": "B. If a struck beater catches the dodgeball that struck them before it otherwise becomes dead, that beater is not beat by that dodgeball.",
                 "subPoints": [
                   "i. It is possible for a struck beater to also become a struck beater for another live dodgeball."
                 ]
